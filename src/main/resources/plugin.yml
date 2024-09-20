@@ -4,6 +4,6 @@ main: com.jjkay03.farmprotect.FarmProtect
 api-version: '1.21'
 
 author: "jjkay03"
-website: https://modrinth.com/project/farmprotect
+website: https://github.com/jjkay03/FarmProtect
 description: "Protect your farmland from being trampled."
 
